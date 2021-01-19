@@ -11,33 +11,41 @@ nr_letters= int(input("How many letters would you like in your password?\n"))
 nr_symbols = int(input(f"How many symbols would you like?\n"))
 nr_numbers = int(input(f"How many numbers would you like?\n"))
 
-#easy mode (4 letters,2 symbols, 2 numbers)
-# easypassword = ""
+# Eazy Level - Order not randomised:
+# e.g. 4 letter, 2 symbol, 2 number = JduE&!91
 
-# for i in range(1,nr_letters +1):
-# 	easypassword += random.choice(letters)
-# for i in range(1,nr_numbers +1):
-# 	easypassword += random.choice(numbers)	
-# for i in range(1,nr_symbols +1):
-# 	easypassword += random.choice(symbols)
-# print(f'This is your easy password: {easypassword}')
+easypassword = ""
 
-# #hard mode (all numbers are not in order)
-# hardpassword = ""
+for i in range(1,nr_letters +1):
+	easypassword += random.choice(letters)
+for i in range(1,nr_numbers +1):
+	easypassword += random.choice(numbers)	
+for i in range(1,nr_symbols +1):
+	easypassword += random.choice(symbols)
+print(f'This is your easy password: {easypassword}')
 
-# for i in range(1,nr_letters +1):
-# 	hardpassword += random.choice(letters)
-# for i in range(1,nr_numbers +1):
-# 	hardpassword += random.choice(numbers)	
-# for i in range(1,nr_symbols +1):
-# 	hardpassword += random.choice(symbols)
-# lists = list(hardpassword)
-# random.shuffle(lists)
-# hard_password = ''.join(lists)
-# print(f'This is your hard password: {hard_password}')
+#Hard Level - Order of characters randomised:
+#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P# hardpassword = ""
+
+hardpassword = ""
+
+for i in range(1,nr_letters +1):
+	hardpassword += random.choice(letters)
+for i in range(1,nr_numbers +1):
+	hardpassword += random.choice(numbers)	
+for i in range(1,nr_symbols +1):
+	hardpassword += random.choice(symbols)
+lists = list(hardpassword)
+random.shuffle(lists)
+hard_password = ''.join(lists)
+print(f'This is your hard password: {hard_password}')
 
 
-#Code without loops
+####Code without loops###
+
+#Eazy Level - Order not randomised:
+#e.g. 4 letter, 2 symbol, 2 number = JduE&!91
+
 easymode = [] 
 
 randoletters = random.choices(letters, weights=None,k = nr_letters)
@@ -49,6 +57,9 @@ easymode.extend(randonumbers)
 easymode.extend(randosymbols)
 easy_password = ''.join(easymode)
 print(f'This is your easy password: {easy_password}')
+
+#Hard Level - Order of characters randomised:
+#e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 
 hardmode = [] 
 randoletters = random.choices(letters, weights=None,k = nr_letters)
