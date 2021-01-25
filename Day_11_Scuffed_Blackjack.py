@@ -5,10 +5,16 @@ cards = [11,2,3,4,5,6,7,8,9,10,10,10,10]
 
 
 def deal_card():
+    """
+    Chooses random number from cards
+    """
     card = random.choice(cards)
     return card
 
 def calculate_score(cards):
+    """
+    Sums scores, changes losing on first turn
+    """
     if sum(cards) == 21 and len(cards) == 2:
         return 0
     if 11 in cards and sum(cards) == 2:
@@ -17,6 +23,9 @@ def calculate_score(cards):
     return sum(cards)
 
 def compare(player1_score,cpu_score):
+    """
+    This compares scores of p1 and cpu!
+    """
     if player1_score == cpu_score:
         return 'It\'s a tie!'
     elif cpu_score == 0:
@@ -72,4 +81,5 @@ while input('Would you like to play some blackjack? Type \'y\' for yes to begin 
     print(chr(27)+'[2j')
     print('\033c')
     print('\x1bc')
+    #These three print lines simulate control + l in the console, which clears the console.
     play()
