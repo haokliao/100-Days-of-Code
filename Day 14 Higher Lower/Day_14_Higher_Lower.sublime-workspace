@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Cho",
+				"choice_B"
+			],
+			[
+				"choi",
+				"choice_A"
+			],
+			[
+				"cho",
+				"choice_A"
+			],
+			[
+				"b",
+				"b_followers"
+			],
+			[
+				"a",
+				"a_followers"
+			],
+			[
+				"follo",
+				"follower_count"
+			],
+			[
+				"choice",
+				"choice_B"
+			],
+			[
+				"fol",
+				"follower_count"
+			],
+			[
+				"ch",
+				"choice_B"
+			],
+			[
+				"C",
+				"choice_B"
+			],
+			[
+				"word",
+				"word_per_page"
+			],
+			[
+				"easy",
+				"easy_lives"
+			],
+			[
+				"game",
+				"game_start"
+			],
+			[
+				"play",
+				"play_game"
+			],
+			[
+				"goal",
+				"goalstring"
+			],
+			[
+				"new",
+				"newstring"
+			],
+			[
+				"con",
+				"continue_calculating"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"operation",
+				"operation_choice"
+			],
+			[
+				"oper",
+				"operation_choice"
+			],
+			[
+				"l",
+				"l_name"
+			],
+			[
+				"ciph",
+				"cipher_text"
+			],
+			[
+				"shif",
+				"shift_amount"
+			],
+			[
+				"hard",
+				"hard_password"
+			],
+			[
+				"eas",
+				"easiestmode"
+			],
+			[
+				"rando",
+				"randosymbols"
+			],
+			[
+				"nr",
+				"nr_symbols"
+			],
+			[
+				"nr_",
+				"nr_numbers"
+			],
+			[
+				"rand",
+				"randosymbols"
+			],
+			[
+				"random",
+				"randonumbers"
+			],
+			[
+				"rab",
+				"randosymbols"
+			],
+			[
+				"ran",
+				"randonumbers"
+			],
+			[
+				"e",
+				"easy_password"
+			],
+			[
+				"player",
+				"player_choice"
+			],
+			[
+				"comp",
+				"computer_choice"
+			],
+			[
+				"love",
+				"love_score"
+			],
+			[
+				"lo",
+				"love_count"
+			],
+			[
+				"tr",
+				"true_count"
+			],
+			[
+				"placeid",
+				"place_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "art.py",
+			"settings":
+			{
+				"buffer_size": 320,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "logo = \"\"\""
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1866,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gamedata.py",
+			"settings":
+			{
+				"buffer_size": 7562,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Python/100-Days-of-Code/Day 14 Higher Lower"
+	],
+	"file_history":
+	[
+		"/C/Python/100-Days-of-Code/Day_12_Number_Guessing_Game.py",
+		"/C/Python/100-Days-of-Code/Day 07 Exercises/Day7_challenge_3.py",
+		"/C/Python/100-Days-of-Code/Day_07_hangman_game.py",
+		"/C/Python/100-Days-of-Code/Day 13 Exercises/Day_13_Exercise_4.py",
+		"/C/Python/100-Days-of-Code/Day 13 Exercises/Day_13_Exercise_3.py",
+		"/C/Python/100-Days-of-Code/Day 13 Exercises/Day_13_Exercise_2.py",
+		"/C/Python/100-Days-of-Code/Day 13 Exercises/Day_13_Exercise_1.py",
+		"/C/Python/test.py",
+		"/C/Python/100-Days-of-Code/Day12_Number_Guessing_Game.py",
+		"/C/Python/100-Days-of-Code/Day_11_Scuffed_Blackjack.py",
+		"/C/Python/runestone_monkeytheorum.py",
+		"/C/Python/listcomprehension.py",
+		"/C/Python/100-Days-of-Code/Day_10_Calculator.py",
+		"/C/Python/100-Days-of-Code/Day 10 Exercises/Day10_Exercise1.py",
+		"/C/Python/100-Days-of-Code/Day10_Calculator.py",
+		"/C/Python/100-Days-of-Code/Day5_Password_Generator.py",
+		"/C/Python/100-Days-of-Code/Day5_Exercise4_Fizzbuzz.py",
+		"/C/Python/100-Days-of-Code/Day8_Ceasar_Cipher.py",
+		"/C/Python/100-Days-of-Code/Day7_hangman_game.py",
+		"/C/Python/100-Days-of-Code/Day9_Secret_Auction.py",
+		"/C/Python/100-Days-of-Code/Day7_hangman_game_words.py",
+		"/C/Python/100-Days-of-Code/Day9_Secret_Auction_Art.py",
+		"/C/Python/100-Days-of-Code/Ceasar_Cipher.py",
+		"/C/Python/100-Days-of-Code/Ceasar_Cipher_Art.py",
+		"/C/Python/100-Days-of-Code/art.py",
+		"/C/Python/100-Days-of-Code/Day9_Exercise1.py",
+		"/C/Python/100-Days-of-Code/Day_8_Caesar_Cipher/Ceasar_Cipher.py",
+		"/C/Python/100-Days-of-Code/Day8_Ceasar_Cipher_3.py",
+		"/C/Python/100-Days-of-Code/Day8_Ceasar_Cipher_2.py",
+		"/C/Python/100-Days-of-Code/Day8_Ceasar_Cipher_1.py",
+		"/C/Python/100-Days-of-Code/Day8_Exercise2.py",
+		"/C/Python/100-Days-of-Code/Day8_Exercise1.py",
+		"/C/Python/100-Days-of-Code/Day_8_Caesar_Cipher/art.py",
+		"/C/Python/100-Days-of-Code/Day7_challenge_4.py",
+		"/C/Python/100-Days-of-Code/Day 7/Day7_hangman_game.py",
+		"/C/Python/100-Days-of-Code/Day7_hangman_game_art.py",
+		"/C/Python/100-Days-of-Code/Day7_challenge_3.py",
+		"/C/Python/100-Days-of-Code/Day7_challenge_2.py",
+		"/C/Python/100-Days-of-Code/Day7_challenge_1.py",
+		"/C/Python/py4e/um_assignment_7_1.py",
+		"/C/Python/100-Days-of-Code/Day7_challenge_3",
+		"/C/Python/100-Days-of-Code/Day5_Exercise3.py",
+		"/C/Python/100-Days-of-Code/Day5_Exercise2.py",
+		"/C/Python/100-Days-of-Code/Day5_Exercise1.py",
+		"/C/Python/100-Days-of-Code/Day4_Rock_paper_scissors.py",
+		"/C/Python/100-Days-of-Code/Day4_Exercise3.py",
+		"/C/Python/100-Days-of-Code/Day4_Exercise2.py",
+		"/C/Python/100-Days-of-Code/Day3_Exercise4_Pizza.py",
+		"/C/Python/100-Days-of-Code/Day3_Exercise5_Lovecalc.py",
+		"/C/Python/100-Days-of-Code/Day3_Treasure_Island_Textrpg.py",
+		"/C/Python/100-Days-of-Code/Day3_Treasure_Island_Textrpg",
+		"/C/Python/100-Days-of-Code/Day3_Exercise3_Leapyear.py",
+		"/C/Python/100-Days-of-Code/Day1_Bandname_gen",
+		"/C/Python/100-Days-of-Code/Day2_Tip_Calculator",
+		"/C/Python/100-Days-of-Code/Day_3_Exercise2.py",
+		"/C/Python/100-Days-of-Code/Day1_Bandname_Generator",
+		"/C/Python/py4e/um_assignment_3_3.py",
+		"/C/Python/py4e/um_assignment_5_2.py",
+		"/C/Python/py4e/um_assignment_4_6.py",
+		"/C/Python/um_assignment_13_8.py",
+		"/C/Python/um_assignment_12_3.py",
+		"/C/Python/um_assignment_11_3.py",
+		"/C/Python/um_assignment_13_5.py",
+		"/C/Python/um_assignment_8_5.py",
+		"/C/Python/um_assignment_10_2.py",
+		"/C/Python/um_assignment_8_4.py",
+		"/C/Python/um_assignment_12_6.py",
+		"/C/Python/pagerank/sprank.py",
+		"/C/Python/pagerank/spider.py",
+		"/C/Python/py4e/geoload.py",
+		"/C/Python/py4e/where.data",
+		"/C/Python/um_assignment_15_9.py",
+		"/C/SQLlite/tracks.py",
+		"/C/Python/tracks.py",
+		"/C/Python/um_assignment_15_5.py",
+		"/C/Python/um_assignment_13_9.py",
+		"/C/Python/um_assignment_12_7.py",
+		"/C/Python/um_assignment_2_3.py",
+		"/C/Python/um_assignment_3_1.py",
+		"/C/Python/um_assignment_3_3.py",
+		"/C/Python/um_assignment_4_6.py",
+		"/C/Python/um_assignment_5_2.py",
+		"/C/Python/um_assignment_6_5.py",
+		"/C/Python/um_assignment_7_1.py",
+		"/C/Python/um_assignment_7_2.py",
+		"/C/Python/um_assignment_9_4.py",
+		"/C/Python/handball.py",
+		"/C/Python/python_1.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "art.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"auto_name": "logo = \"\"\"",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1211,
+								1211
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gamedata.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Day_14_Higher_Lower.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Python\\py4e\\um_assignment_7_1.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
